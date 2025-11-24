@@ -5,7 +5,7 @@ import os
 
 def draw_plot():
     # Read data from file
-    df = pd.read_csv(os.path.join(os.getcwd(), 'data/epa-sea-level.csv'))
+    df = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data', 'epa-sea-level.csv'))
 
     # Create scatter plot
     plt.figure(figsize=(10,6))
