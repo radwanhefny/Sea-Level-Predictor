@@ -16,7 +16,7 @@ Before running this project, ensure you have:
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Sea-Level-Predictor.git
+git clone https://github.com/radwanhefny/Sea-Level-Predictor.git
 cd Sea-Level-Predictor
 
 ```
